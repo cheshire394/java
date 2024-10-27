@@ -1,0 +1,7 @@
+ID: 1 ,apellido:FERNANDEZ ,departamento: 10 ,salario: 1000.45
+ID: 2 ,apellido:GIL ,departamento: 20 ,salario: 2400.6
+ID: 3 ,apellido:LOPEZ ,departamento: 10 ,salario: 3000.0
+ID: 4 ,apellido:RAMOS ,departamento: 10 ,salario: 1500.56
+ID: 5 ,apellido:SEVILLA ,departamento: 30 ,salario: 2200.0
+ID: 6 ,apellido:CASILLAS ,departamento: 30 ,salario: 1435.87
+ID: 7 ,apellido:REY ,departamento: 20 ,salario: 2000.0
